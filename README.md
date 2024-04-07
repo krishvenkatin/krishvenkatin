@@ -12,9 +12,8 @@ I'm a Principal Application Engineer at a leading Financial Services organizatio
 
 ## Get in Touch
 
-- 📫 Feel free to reach out to me via email: [YourEmail@example.com](mailto:YourEmail@example.com)
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- 🌐 Visit my personal website: [YourWebsite.com](https://www.yourwebsite.com)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/venkatramanan-radhakrishnan-583b2a50/))
+
 
 ## Let's Connect and Collaborate!
 
